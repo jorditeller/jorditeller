@@ -6,9 +6,9 @@ Apasionado por crear interfaces limpias, funcionales y con una experiencia de us
 ---
 
 ## 🚀 Sobre mí
-- 🔧 Me encanta construir sistemas dinámicos con PHP y JavaScript  
-- 🎨 Obsesionado con el diseño limpio, responsive y bien alineado  
-- 🧠 Aprendo haciendo: iterar, probar, mejorar  
+- 🔧 Me encanta construir sistemas dinámicos con las tecnologías que conozco
+- 🎨 Obsesionado con el diseño limpio, responsive y bien alineado
+- 🧠 Aprendo haciendo: iterar, probar, mejorar
 
 ---
 
