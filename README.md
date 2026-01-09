@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jordi
 
-### 💻 Desarrollador web | PHP · JavaScript · CSS · HTML  
+### 💻 Desarrollador de aplicaciones y aplicaciones web
 Apasionado por crear interfaces limpias, funcionales y con una experiencia de usuario impecable.
 
 ---
@@ -56,9 +56,7 @@ Apasionado por crear interfaces limpias, funcionales y con una experiencia de us
 ---
 
 ## 📈 Mis objetivos actuales
-- Mejorar mis layouts responsive para tablet y desktop  
-- Perfeccionar flujos de usuario y autenticación  
-- Crear interfaces más intuitivas y visualmente equilibradas  
+- Seguir aprendiendo y mejorando cada día
 
 ---
 
