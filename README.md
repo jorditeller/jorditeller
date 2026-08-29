@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jordi
 
-### 💻 Desarrollador de aplicaciones y aplicaciones web
+### 💻 Técnico superior de aplicaciones multiplataforma y aplicaciones web
 Apasionado por crear interfaces limpias, funcionales y con una experiencia de usuario impecable.
 
 ---
